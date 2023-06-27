@@ -16,7 +16,7 @@ from tensorflow import keras
 #---------------------------------------------------------------
 
 # load citra RGB (BGR)
-img = cv.imread(r'E:\PYTHON\Final Project\test images\AB2638XU.jpg')
+img = cv.imread(r'D:/xampp/htdocs/P/Python/test images/AB5592EG.jpg')
 
 # resize citra dengan mengalikannya ukuran aslinya dengan 0.4
 # contoh: 1920 x 2560 ==> 1920 x 0.4 = 768 ; 2560 x 0.4 = 1024 ==> hasilnya 768 x 1024
