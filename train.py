@@ -6,7 +6,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.models import Sequential
 
-data_dir = r'/xampp/htdocs/P/Python/test images'
+data_dir = r'/var/www/html/python-projects/SmartParking/test'
 
 batch_size = 32
 img_height = 40
